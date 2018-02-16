@@ -2,7 +2,7 @@
 
 By M.Shahzeb Khan Gul, Bahadir K. Gunturk
 
-### Citing LFSR
+## Citing LFSR
 
 If you find LFSR useful in your research, please consider citing:
 
@@ -19,3 +19,8 @@ If you find LFSR useful in your research, please consider citing:
         ISSN={1057-7149}, 
         month={May}
      }
+
+### Download the test input light field images from the following link.
+
+
+https://drive.google.com/drive/folders/1tnnlotdwVOgx7meuDuTfhR4Bo4sWXk1B?usp=sharing
